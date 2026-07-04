@@ -38,7 +38,7 @@ The project is built using the **MERN Stack** with **React + TypeScript**, **Nod
 
 ### Product Details
 
-![featured Categories](screenshots/featuredcategories.png)
+![Featured Categories](screenshots/featuredCategories.png)
 ![Product Details](screenshots/products.png)
 ![Product Details](screenshots/products1.png)
 ![Product Details](screenshots/productsDetails.png)
